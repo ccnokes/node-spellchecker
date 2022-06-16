@@ -21,7 +21,7 @@
     "prebuild": "prebuild --all --strip --verbose"
   },
   "devDependencies": {
-    "electron": "^1.8.6",
+    "electron": "^15.5.5",
     "jasmine-focused": "1.x",
     "prebuild": "^7.4.0",
     "prebuild-ci": "^2.2.3"
